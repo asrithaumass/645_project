@@ -72,3 +72,8 @@ group by dta.name, da.name, da.city, dc.name;
 
 \COPY podsUniversalTable TO './podsUniversalTable.csv' WITH (FORMAT CSV, HEADER);
 \COPY sigmodUniversalTable TO './sigmodUniversalTable.csv' WITH (FORMAT CSV, HEADER);
+
+create table UniversalTable AS
+SELECT * FROM podsUniversalTable
+UNION ALL
+SELECT * FROM sigmodUniversalTable;
