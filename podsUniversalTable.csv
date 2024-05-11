@@ -1,0 +1,605 @@
+author,affiliation,city,country,count
+Aaron Bohannon,University of Pennsylvania,Philadelphia,United States,3
+Abhay Kumar Jha,"CSE, University of Washington, Seattle, WA, USA",Seattle,United States,3
+Adam Kirsch,"Harvard University, Cambridge, MA, USA",Cambridge,United States,6
+Adam Meyerson,"University of California, Los Angeles, CA",Los Angeles,United States,2
+Alan J. Demers,Cornell University,Ithaca,United States,4
+Alan Nash,"IBM Almaden Research Center, San Jose, CA, USA",San Jose,United States,4
+Alan Nash,"IBM Research Almaden, San Jose, CA, USA",San Jose,United States,3
+Alan Nash,Microsoft Research,Mountain View,United States,3
+Alan Nash,"University of California, San Diego",San Diego,United States,2
+Alan Nash,"University of California, San Diego, La Jolla, CA",La Jolla,United States,2
+Alberto Marchetti-Spaccamela,"Universitá di Roma ""La Sapienza"", Italy",Rome,Italy,5
+Alberto O. Mendelzon,"Department of Computer Science, University of Toronto",Toronto,Canada,2
+Alberto O. Mendelzon,University of Toronto,Toronto,Canada,7
+Aleksandar Nikolov,"Rutgers University, Piscataway, NJ, USA",Piscataway Township,United States,4
+Alessio Orlandi,"University of Pisa, Pisa, Italy",Pisa,Italy,2
+Alex Thomo,"Concordia University, Montreal, Quebec, Canada",Montreal,Canada,2
+Alexander Markowetz,"Fachbrreich Mathematik & Informatik, Philipps Universitát Marburg, Germany",Marburg,Germany,5
+Alexandre V. Evfimievski,Cornell University,Ithaca,United States,3
+Alexandre V. Evfimievski,"IBM Almaden Research Center, San Jose, CA, USA",San Jose,United States,3
+Alexandru Berlea,"Zentrum Mathematik, Technische Universität München, Garching bei München, Germany",Garching,Germany,4
+Ali Saman Tosun,"Department of Electrical and Computer Engineering, University of Texas at San Antonio, San Antonio, TX",San Antonio,United States,3
+Alin Deutsch,"University of California San Diego, La Jolla, CA",San Diego,United States,3
+Alin Deutsch,"University of California San Diego, La Jolla, CA, USA",San Diego,United States,3
+Alin Deutsch,"University of California, San Diego",San Diego,United States,7
+Alin Dobra,"IEDAL Lab, University of Florida, Gainesville, FL 32611, USA",Gainesville,United States,1
+Alon Y. Halevy,"Google Inc., Mountain View, CA",Mountain View,United States,3
+Alon Y. Halevy,University of Washington,Seattle,United States,3
+Amir M. Zarkesh,"ZAIAS Technologies Corporation, 5086 Avenida Oriente, Tarzana, CA",Los Angeles,United States,4
+Amit Kumar,IIT Delhi,New Delhi,India,4
+Amit Kumar,"Indian Institute of Technology, New Delhi, India",New Delhi,India,2
+Amit Kumar,"Lucent Technologies, Murray Hill, NJ",New Providence,United States,2
+Amnon Lotem,"Maryland-College Park, Dept. of Computer Science, College Park, Maryland",College Park,United States,3
+Amol Deshpande,University of Maryland,College Park,United States,4
+Amol Deshpande,"University of Maryland, College Park, MD, USA",College Park,United States,2
+An Zhu,"Google Inc., Mountain View, CA",Mountain View,United States,7
+Anand Rajaraman,"Cambrian Ventures, 201 San Antonio Circle, Mountain View, CA",Mountain View,United States,2
+Anand Ranganathan,"IBM T.J. Watson Research Center, Hawthorne, NY, USA",Hawthorne,United States,4
+Anand Srinivasan,"Bell Labs Research India, Bangalore",Bengaluru,India,5
+Andrea Calì,"University of Oxford, Oxford, United Kingdom",Oxford,United Kingdom,3
+Andrea Calì,"Università di Roma ""La Sapienza"", Via Salaria 113, Roma, Italy",Rome,Italy,3
+Andrea Pietracaprina,"University of Padova, Padova, Italy",Padua,Italy,6
+Andrew McGregor,"UC San Diego, La Jolla, CA, USA",San Diego,United States,2
+Andrew McGregor,UCSD,La Jolla,United States,4
+Andrew McGregor,"University of Massachusetts Amherst, Amherst, MA, USA",Amherst,United States,5
+Andrew McGregor,"University of Pennsylvania, Philadelphia, PA",Philadelphia,United States,2
+Andrew Tomkins,"IBM Almaden Research Center, San Jose, CA",San Jose,United States,6
+Andrew Tomkins,"Yahoo! Research, Sunnyvale, CA, USA",Sunnyvale,United States,8
+André Hernich,Humboldt-University,Berlin,Germany,2
+André Hernich,"Humboldt-Universität, Berlin, Germany",Berlin,Germany,3
+Anirban Dasgupta,"Yahoo! Research, Sunnyvale, CA, USA",Sunnyvale,United States,3
+Anirban Majumder,"IIT Kanpur, India",Kanpur,India,2
+Ankur Gupta,"Butler University, Indianapolis, IN, USA",Indianapolis,United States,5
+Anna C. Gilbert,"AT&T Labs--Research, Florham Park, NJ",Florham Park,United States,4
+Anne Condon,University of British Columbia,Vancouver,Canada,4
+Antonella Poggi,"Sapienza Universita di Roma, Rome, Italy",Rome,Italy,5
+Antonella Poggi,"Sapienza University of Rome, Rome, Italy",Roma,Italy,4
+Antonio Badia,University of Louisville,Louisville,United States,2
+Anuj Dawar,"University of Cambridge, Cambridge, U.K.",Cambridge,United Kingdom,3
+Aravind Ramachandran,"The Ohio State University, Columbus, OH",Columbus,United States,3
+Ariel Fuxman,U. of Toronto,Toronto,Canada,4
+Aris Anagnostopoulos,"Yahoo! Research, Sunnyvale, CA, USA",Sunnyvale,United States,3
+Arvind Arasu,Stanford University,Stanford,United States,2
+Arvind Arasu,"Stanford University, Stanford, CA",Stanford,United States,5
+Ashish Goel,"Stanford University, Stanford, CA",Stanford,United States,3
+Ashish Kumar Gupta,University of Washington,Seattle,United States,3
+Ashwin Machanavajjhala,Cornell University,Ithaca,United States,2
+Atish Das Sarma,"Georgia Tech, Atlanta, GA, USA",Atlanta,United States,3
+Avrim Blum,"Carnegie Mellon University, Pittsburgh, PA",Pittsburgh,United States,4
+Bassem Sayrafi,"Indiana University, Bloomington, IN",Bloomington,United States,2
+Benjamin C. Pierce,University of Pennsylvania,Philadelphia,United States,3
+Benny Kimelfeld,"IBM Research - Almaden, San Jose, CA, USA",San Jose,United States,9
+Benny Kimelfeld,"IBM Research, San Jose, CA, USA",San Jose,United States,5
+Benny Kimelfeld,"IBM, San Jose, CA, USA",San Jose,United States,3
+Benny Kimelfeld,"NetXen, Inc., Santa Clara, CA, USA",San Jose,United States,3
+Benny Kimelfeld,The Hebrew University of Jerusalem,Los Angeles,United States,2
+Bernhard Seeger,"Fachbrreich Mathematik & Informatik, Philipps Universitát Marburg, Germany",Marburg,Germany,5
+Bernhard Seeger,"University of Marburg, Marburg, Germany",Marburg,Germany,4
+Bertram Ludäscher,"University of California, San Diego, La Jolla, CA",La Jolla,United States,2
+Bing-Rong Lin,"Penn State University, University Park, PA, USA",University Park,United States,2
+Bo Pang,"Yahoo! Research, Sunnyvale, CA, USA",Sunnyvale,United States,8
+Boaz Barak,Princeton University,Princeton,United States,6
+Bogdan Alexe,"UC Santa Cruz, Santa Cruz, CA, USA",Santa Cruz,United States,3
+Bogdan Cautis,U. Paris Sud,Scholes,United Kingdom,3
+Bogdan Warinschi,Stanford University,Stanford,United States,2
+Bradley C. Kuszmaul,"Laboratory for Information and Decision Systems (LIDS), Massachusetts Institute of Technology, Cambridge, MA",Cambridge,United States,6
+Brian Babcock,"Stanford University, Stanford, CA",Stanford,United States,14
+Bruno Marnette,"Oxford University, Oxford, United Kingdom",Oxford,United Kingdom,1
+Carlo Zaniolo,"Computer Science Department, University of California, Los Angeles, CA",Los Angeles,United States,4
+Carlo Zaniolo,"UCLA, Los Angeles, CA, USA",Los Angeles,United States,3
+Carlos A. Hurtado,University of Toronto,Toronto,Canada,2
+Carsten Lund,"AT&T Labs-Research, Florham Park, NJ, USA",Florham Park,United States,9
+Carsten Lutz,"Communications Laboratory, Faculty of Electrical Engineering and Information Technology, Dresden University of Technology, Dresden, Germany",Dresden,Germany,2
+Chao Li,"University of Massachusetts Amherst, Amherst, MA, USA",Amherst,United States,5
+Charu C. Aggarwal,"IBM T. J. Watson Research Center, Hawthorne, NY",Hawthorne,United States,2
+Charu C. Aggarwal,"IBM T. J. Watson Research Center, Yorktown Heights, NY",Yorktown Heights,United States,3
+Chen Li,"University of California, Irvine, CA",Irvine,United States,3
+Chen Li,"University of California, Irvine, Irvine, CA",Irvine,United States,2
+Cheng Sheng,"Chinese University of Hong Kong, Hong Kong, Hong Kong",Ma Liu Shui,Hong Kong,2
+Cheng Sheng,"Department of Statistics, The Chinese University of Hong Kong, Hong Kong",Ma Liu Shui,Hong Kong,4
+Chinya V. Ravishankar,"Department of Computer Science and Engineering, University of California at Riverside, Riverside, CA",Riverside,United States,3
+Christian Sohler,"University of Paderborn, Germany",Paderborn,Germany,5
+Christine T. Cheng,"Department of Electrical Engineering and Computer Science, University of Wisconsin-Milwaukee, Milwaukee, WI, United States",Milwaukee,United States,2
+Christof Löding,"Lehrstuhl Informatik VII, RWTH Aachen",Aachen,Germany,4
+Christoph Koch,"Cornell University, Ithaca, NY, USA",Ithaca,United States,5
+Christoph Koch,"Saarland University, Saarbrücken, Germany",Saarbrücken,Germany,1
+Christoph Koch,"University of Edinburgh, Edinburgh, UK",Edinburgh,United Kingdom,3
+Christopher Ré,"University of Madison-Madison, Madison, WI, USA",Madison,United States,2
+Christopher Ré,"University of Wisconsin-Madison, Madison, WI, USA",Madison,United States,2
+Christopher Unkel,"Stanford University, Stanford, CA",Stanford,United States,7
+Christos Faloutsos,Carnegie Mellon University,Pittsburgh,United States,3
+Christos H. Papadimitriou,"Division of Computer Science, U. C. Berkeley, Berkeley , CA",Berkeley,United States,2
+Christos H. Papadimitriou,"University of California at Berkeley, USA",Berkeley,United States,3
+Chung-Min Chen,"Bell Communications Research, Morristown, NJ",Morristown,United States,2
+Cinda Heeren,"University of Illinois at Urbana-Champaign, Urbana, IL",Champaign,United States,3
+Claire David,"University of Edinburgh, Edinburgh, United Kingdom",Edinburgh,United Kingdom,3
+Cristian Bucila,Cornell University,Ithaca,United States,4
+Cristian Riveros,"Oxford University, Oxford, England UK",Oxford,United Kingdom,4
+Cristina Sirangelo,"University of Edinburgh, Edinburgh, United Kngdm",Edinburgh,United Kingdom,2
+Csaba D. Tóth,"MIT, Cambridge, MA",Cambridge,United States,4
+Cynthia Dwork,Microsoft Research,Mountain View,United States,6
+Cynthia Dwork,"Microsoft Research, SVC, La Avenida, Mountain View, CA",Mountain View,United States,4
+Cyrus Shahabi,"University of Southern California, Los Angeles, California",Los Angeles,United States,2
+D. Sivakumar,"Google Inc., Mountain View, CA",Mountain View,United States,3
+D. Sivakumar,"IBM Almaden Research Center, San Jose, CA",San Jose,United States,11
+Dakshi Agrawal,"IBM T. J. Watson Research Center, Hawthorne, NY",Hawthorne,United States,2
+Dakshi Agrawal,"IBM T. J. Watson Research Center, Yorktown Heights, NY",Yorktown Heights,United States,2
+Damien Sereni,"Department of Statistics, University of Oxford, OX1 3TG, UK",Oxford,United Kingdom,4
+Dan Suciu,"CSE, University of Washington, Seattle, WA, USA",Seattle,United States,3
+Dan Suciu,"Computer Science & Engineering, University of Washington, Box 352350, Seattle, WA",Seattle,United States,2
+Dan Suciu,"Department of Electrical Engineering, University of Washington, Seattle, WA",Seattle,United States,1
+Dan Suciu,University of Washington,Seattle,United States,12
+Dan Suciu,"University of Washington, Seattle, WA",Seattle,United States,2
+Dan Suciu,"University of Washington, Seattle, WA, USA",Seattle,United States,11
+Daniel Kifer,Cornell University,Ithaca,United States,4
+Daniel Kifer,"Penn State University, University Park, PA, USA",University Park,United States,2
+Daniel M. Kane,"Laboratory for Information and Decision Systems (LIDS), Massachusetts Institute of Technology, Cambridge, MA",Cambridge,United States,3
+Darakhshan J. Mir,"Rutgers University, Piscataway, NJ, USA",Piscataway Township,United States,4
+David Cheng,"Massachusetts Institute of Technology, Cambridge, MA",Cambridge,United States,4
+David Maier,"Portland State University, Portland, OR",Portland,United States,3
+David P. Woodruff,"IBM Almaden Research Center, San Jose, CA, USA",San Jose,United States,3
+David P. Woodruff,"Laboratory for Information and Decision Systems (LIDS), Massachusetts Institute of Technology, Cambridge, MA",Cambridge,United States,2
+David P. Woodruff,"NetXen, Inc., Santa Clara, CA, USA",San Jose,United States,5
+Dayou Zhou,"University of California, San Diego",San Diego,United States,4
+Debmalya Panigrahi,"Massachusetts Institute of Technology, Cambridge, MA, USA",Cambridge,United States,5
+Dennis Shasha,"Courant Institute, New York University",New York,United States,3
+Di Wang,"Worcester Polytechnic Institute, Worcester, USA",Worcester,United States,4
+Diego Calvanese,"Free University of Bolzano/Bozen, Bolzano, Italy",Bolzano,Italy,4
+Diego Calvanese,"Univ. di Roma ""La Sapienza"", Via Salaria 113, Roma, Italy",Rome,Italy,4
+Diego Calvanese,"Università di Roma ""La Sapienza"", Via Salaria 113, 1-00198 Roma, Italy",Rome,Italy,4
+Diego Figueira,"School of Informatics, University of Edinburgh, 2 Buccleuch Place, Edinburgh, EH8 9LW, UK. E-mail: sgoolnik@gmail.com",Edinburgh,United Kingdom,1
+Diego Figueira,"University of Edinburgh, Edinburgh, United Kingdom",Edinburgh,United Kingdom,2
+Dilys Thomas,"Stanford University, Stanford, CA",Stanford,United States,7
+Dimitrios Gunopulos,"Computer Science Department, University of California, Riverside, CA",Riverside,United States,5
+Dimitrios Gunopulos,"University of California, Riverside, CA",Riverside,United States,3
+Dimitris Achlioptas,"Microsoft Research, One Microsoft Way, Redmond, WA 98052, USA",Redmond,United States,1
+Dirk Van Gucht,Indiana University,Bloomington,United States,3
+Dirk Van Gucht,"Indiana University, Bloomington, IN",Bloomington,United States,6
+Divesh Srivastava,"AT&T Labs-Research, Florham Park, NJ, USA",Florham Park,United States,11
+Domenico Lembo,Sapienza Universit224; di Roma,Rome,Italy,4
+Domenico Lembo,"Università di Roma ""La Sapienza"", Via Salaria 113, Roma, Italy",Rome,Italy,3
+Donghui Zhang,"Computer Science Department, University of California, Riverside, CA",Riverside,United States,5
+Donghui Zhang,"University of California, Riverside, CA",Riverside,United States,3
+Dzintars Avots,"Stanford University, Stanford, CA",Stanford,United States,7
+Edith Cohen,"AT&T Labs-Research, Florham Park, NJ, USA",Florham Park,United States,12
+Eli Upfal,Brown University,Providence,United States,6
+Eli Upfal,"Brown University, Providence, RI, USA",Providence,United States,6
+Enrico Franconi,"Free University of Bozen-Bolzano, Bozen",Bolzano,Italy,2
+Erik Vee,"Department of Computer Engineering, Santa Clara University, Santa Clara, CA",Santa Clara,United States,7
+Erik Vee,"University of Washington, Seattle, WA",Seattle,United States,5
+Fabio Vandin,"University of Padova, Padova, Italy",Padua,Italy,6
+Fang Wei,"University of Freiburg, Freiburg, Germany",Freiburg,Germany,4
+Filip Murlak,"University of Edinburgh, Edinburgh, United Kingdom",Edinburgh,United Kingdom,3
+Flavio Chierichetti,"Sapienza University of Rome, Dipartmento di Informatica, Roma, Italy",Rome,Italy,3
+Flip Korn,"AT&T Labs-Research, Florham Park, NJ, USA",Florham Park,United States,7
+Floris Geerts,"School of Informatics, University of Edinburgh, 2 Buccleuch Place, Edinburgh, EH8 9LW, UK. E-mail: sgoolnik@gmail.com",Edinburgh,United Kingdom,3
+Floris Geerts,Univ. of Limburg & Univ. of Edinburgh,Edinburgh,United Kingdom,3
+Floris Geerts,"University of Edinburgh, Edinburgh, United Kingdom",Edinburgh,United Kingdom,7
+Floris Geerts,"University of Edinburgh, Edinburgh, United Kngdm",Edinburgh,United Kingdom,5
+Francesco Scarcello,"University of Calabria, I-87030 Rende (CS)",Rende,Italy,3
+Francesco Scarcello,"University of Calabria, Rende (CS), Italy",Rende,Italy,2
+Francesco Scarcello,"Università della Calabria, Italy",Rende,Italy,3
+Francis C. Chu,"Cornell University, Ithaca, NY",Ithaca,United States,3
+Frank McSherry,Microsoft Research,Mountain View,United States,6
+Frank McSherry,"Microsoft Research, SVC, La Avenida, Mountain View, CA",Mountain View,United States,4
+Frank Thomson Leighton,"Laboratory for Information and Decision Systems (LIDS), Massachusetts Institute of Technology, Cambridge, MA",Cambridge,United States,1
+Gabriele Puppis,"oxford, Oxford, United Kingdom",Oxford,United Kingdom,3
+Gagan Aggarwal,"Google Inc., Mountain View, CA",Mountain View,United States,7
+Ganesh Ramesh,"University at Albany, SUNY Albany, NY",Albany,United States,3
+Gareth Smith,"Imperial College, London, United Kngdm",London,United Kingdom,4
+Georg Gottlob,"Computing Laboratory and Oxford Man Institute of Quantitative Finance, University of Oxford, Oxford, United Kingdom",Oxford,United Kingdom,3
+Georg Gottlob,Oxford University,Oxford,United Kingdom,5
+Georg Gottlob,"Oxford University, Oxford, United Kngdm",Oxford,United Kingdom,2
+Georg Gottlob,University of Oxford,Oxford,United Kingdom,3
+Georg Gottlob,"University of Oxford, Oxford, United Kingdom",Oxford,United Kingdom,9
+Georg Lausen,"University of Freiburg, Freiburg, Germany",Freiburg,Germany,4
+George A. Mihaila,"IBM T.J. Watso Research Center and Department of Computer Science, University of Toronto",Toronto,Canada,2
+George H. L. Fletcher,"Indiana University, Bloomington, IN",Bloomington,United States,4
+Geppino Pucci,"University of Padova, Padova, Italy",Padua,Italy,6
+Gereon Frahling,"University of Paderborn, Germany",Paderborn,Germany,5
+Gerhard Weikum,"Max Planck Institute for Informatics, Saarbruecken, Germany",Saarbrücken,Germany,2
+Gerhard Weikum,"Max-Planck-Institut für Informatik, Saarbrücken, Germany",Saarbrücken,Germany,3
+Gerome Miklau,"UMass Amherst, Amherst, MA, USA",Amherst,United States,4
+Gerome Miklau,"University of Massachusetts Amherst, Amherst, MA, USA",Amherst,United States,5
+Gerome Miklau,"University of Washington, Seattle, WA",Seattle,United States,2
+Gianluigi Greco,"University of Calabria, Rende (CS), Italy",Rende,Italy,2
+Gianluigi Greco,"Università della Calabria, Italy",Rende,Italy,3
+Giuseppe De Giacomo,Sapienza Universit224; di Roma,Rome,Italy,4
+Giuseppe De Giacomo,"Univ. di Roma ""La Sapienza"", Via Salaria 113, Roma, Italy",Rome,Italy,4
+Giuseppe De Giacomo,"Univ. di Roma La Sapienza, Roma, Italy",Rome,Italy,4
+Giuseppe De Giacomo,"Università di Roma ""La Sapienza"", Via Salaria 113, 1-00198 Roma, Italy",Rome,Italy,4
+Gjergji Kasneci,"DFKI, Stuhlsatzenhausweg 3, 66123 Saarbrücken, Germany",Saarbrücken,Germany,2
+Gottfried Vossen,"University of Munster, Leonardo-Campus 3, D-48149 Münster, Germany",Münster,Germany,2
+Graham Cormode,"AT&T Labs - Research, Florham Park, NJ, USA",Florham Park,United States,8
+Graham Cormode,"AT&T Labs, Florham Park, NJ, USA",Florham Park,United States,2
+Graham Cormode,"AT&T Labs-Research, Florham Park, NJ, USA",Florham Park,United States,3
+Graham Cormode,Bell Laboratories,Holmdel,United States,6
+Graham Cormode,"Rutgers University, Piscataway NJ",Piscataway Township,United States,2
+Grant Wang,"Massachusetts Institute of Technology, Cambridge, MA",Cambridge,United States,4
+Gregory Karvounarakis,University of Pennsylvania,Philadelphia,United States,3
+Gregory Valiant,"UC Berkeley, Berkeley, CA, USA",Berkeley,United States,3
+Guizhen Yang,"SRI International, Menlo Park, CA",Menlo Park,United States,3
+Gurmeet Singh Manku,Stanford University,Stanford,United States,2
+Gösta Grahne,"Concordia University, Montreal, Quebec, Canada",Montreal,Canada,2
+H. F. Ting,"The University of Hong Kong, Pokfulam, Hong Kong",Pok Fu Lam,Hong Kong,2
+H. V. Jagadish,"University of Michigan, Ann Arbor, MI",Ann Arbor,United States,3
+Haixun Wang,IBM T.J Watson Research Center,Ossining,United States,4
+Hakan Ferhatosmanoglu,"The Ohio State University, Columbus, OH",Columbus,United States,3
+Hanson Zhou,"Laboratory for Information and Decision Systems (LIDS), Massachusetts Institute of Technology, Cambridge, MA",Cambridge,United States,2
+Hao Yang,"IBM T.J. Watson Research Center, Hawthorne, NY, USA",Hawthorne,United States,4
+Haodong Hu,"Computer Science Department, State University of New York at Stony Brook, Stony Brook, NY",Stony Brook,United States,5
+Helmut Seidl,"Universität Trier, Trier, Germany",Trier,Germany,3
+Helmut Seidl,"Zentrum Mathematik, Technische Universität München, Garching bei München, Germany",Garching,Germany,4
+Hoda Mokhtar,"University of California, Santa Barbara, CA 93106, USA. E-mail: {vigna,fredrik,balzarot,wkr}@cs.ucsb.edu",Santa Barbara,United States,3
+Hossein Jowhari,"Simon Fraser University, Burnaby, BC, Canada",Burnaby,Canada,3
+Huy Vu,"Oxford, Oxford, United Kingdom",Oxford,United Kingdom,3
+Irit Dinur,"NEC Research Institute, Princeton, NJ",Princeton,United States,2
+Isolde Adler,"Deutsche Telekom Laboratories, Berlin, Germany",Berlin,Germany,1
+J. Nathan Foster,"University of Pennsylvania, Philadelphia, PA, USA",Philadelphia,United States,3
+Jafar Adibi,"ZAIAS Technologies Corporation, 5086 Avenida Oriente, Tarzana, CA",Los Angeles,United States,4
+James Cheney,"School of Informatics, University of Edinburgh, 2 Buccleuch Place, Edinburgh, EH8 9LW, UK. E-mail: sgoolnik@gmail.com",Edinburgh,United Kingdom,4
+Jan Vondrák,"NetXen, Inc., Santa Clara, CA, USA",San Jose,United States,3
+Jasmine Novak,"IBM Almaden Research Center, San Jose, CA",San Jose,United States,6
+Jason Tsong-Li Wang,New Jersey Inst. Tech.,Hoboken,United States,3
+Jeffrey A. Vaughan,University of Pennsylvania,Philadelphia,United States,3
+Jeffrey B. Remmel,"University of California, San Diego, La Jolla, CA, USA",San Diego,United States,3
+Jeffrey D. Ullman,"Department of Computer Science, Stanford University, Stanford, CA",Stanford,United States,2
+Jeffrey F. Naughton,"Dept. of Computer Sciences, University of Wisconsin, Madison, WI",Madison,United States,4
+Jeffrey F. Naughton,"University of Wisconsin-Madison, Madison, USA",Madison,United States,4
+Jeffrey Scott Vitter,"Purdue University, West Lafayette, IN, USA",West Lafayette,United States,5
+Jelani Nelson,"Laboratory for Information and Decision Systems (LIDS), Massachusetts Institute of Technology, Cambridge, MA",Cambridge,United States,5
+Jennifer Widom,Stanford University,Stanford,United States,8
+Jennifer Widom,"Stanford University, Stanford, CA",Stanford,United States,10
+Jens Lechtenbörger,"University of Munster, Leonardo-Campus 3, D-48149 Münster, Germany",Münster,Germany,2
+Jens Lechtenbörger,"University of Münster, Leonardo-Campus 3, Münster, Germany",Münster,Germany,1
+Jens-Peter Dittrich,"University of Marburg, Marburg, Germany",Marburg,Germany,4
+Jian Li,"University of Maryland, College Park, MD, USA",College Park,United States,2
+Jianwen Su,"University of California at Santa Barbara, Santa Barbra, CA, USA",Santa Barbara,United States,2
+Jianwen Su,"University of California, Santa Barbara, CA 93106, USA. E-mail: {vigna,fredrik,balzarot,wkr}@cs.ucsb.edu",Santa Barbara,United States,3
+Jianwen Su,"University of California, Santa Barbara, California",Santa Barbara,United States,4
+Jin-yi Cai,"Dept. of Computer Sciences, University of Wisconsin, Madison, WI",Madison,United States,4
+Johannes Gehrke,Cornell University,Ithaca,United States,13
+Johannes Gehrke,"Cornell University, Ithaca, NY",Ithaca,United States,3
+Johannes Gehrke,"Cornell University, Ithaca, New York",Ithaca,United States,1
+John Hershberger,Mentor Graphics,Wilsonville,United States,6
+John Whaley,"Stanford University, Stanford, CA",Stanford,United States,7
+Jon McAlister,"Stanford University, Stanford, CA",Stanford,United States,5
+Jonathan Panttaja,UC Santa Cruz,Santa Cruz,United States,3
+Joseph M. Hellerstein,"UC Berkeley, Berkeley, CA, USA",Berkeley,United States,1
+Joseph Y. Halpern,Cornell University,Ithaca,United States,1
+Joseph Y. Halpern,"Cornell University, Ithaca, NY",Ithaca,United States,3
+Juan L. Reutter,"School of Informatics, University of Edinburgh, 2 Buccleuch Place, Edinburgh, EH8 9LW, UK. E-mail: sgoolnik@gmail.com",Edinburgh,United Kingdom,6
+Juan L. Reutter,"University of Edinburgh, Edinburgh, Scotland UK",Edinburgh,United Kingdom,4
+Jun Xu,Georgia Tech,Atlanta,United States,4
+K. V. M. Naidu,"Bell Labs Research India, Bangalore",Bengaluru,India,5
+Kamalika Chaudhuri,UC Berkeley,Berkeley,United States,6
+Kamesh Munagala,Duke University,Durham,United States,6
+Kamesh Munagala,"Duke University, Durham, NC",Durham,United States,3
+Kamesh Munagala,"Duke University, Durham, NC, USA",Durham,United States,2
+Karl Schnaitter,"UC Santa Cruz, Santa Cruz, CA, USA",Santa Cruz,United States,5
+Ke Yi,"HKUST, Hong Kong, China",Tseung Kwan O,Hong Kong,2
+Ke Yi,"HKUST, Hong Kong, Hong Kong",Tseung Kwan O,Hong Kong,9
+Ke Yi,"Hong Kong University of Science and Technology, China",Clear Water Bay,Hong Kong,2
+Ke Yi,"Hong Kong University of Science and Technology, Hong Kong, Hong Kong",Clear Water Bay,Hong Kong,4
+Ken Q. Pu,University of Toronto,Toronto,Canada,2
+Kenneth A. Ross,Columbia University,New York,United States,1
+Klaus U. Schulz,"CIS, LMU München, Germany",Munich,Germany,3
+Kobbi Nissim,"NEC Research Institute, Princeton, NJ",Princeton,United States,2
+Krishnaram Kenthapadi,"Stanford University, Stanford, CA",Stanford,United States,10
+Kunal Talwar,Microsoft Research,Mountain View,United States,6
+Lap-Kei Lee,"The University of Hong Kong, Pokfulam, Hong Kong",Pok Fu Lam,Hong Kong,2
+Leonard Pitt,"University of Illinois at Urbana-Champaign, Urbana, IL",Champaign,United States,3
+Leonid Libkin,"Department of Computer Science, University of Toronto, 6, King's College Road, Toronto, On tario M5S 3H5, Canada",Toronto,Canada,4
+Leonid Libkin,"Department of Computer Science, University of Toronto, Toronto ON M5S 3H5, Canada",Toronto,Canada,2
+Leonid Libkin,"Department of Mathematics and Statistics, York University, Toronto, Ont., Canada M3J 1P3",Toronto,Canada,3
+Leonid Libkin,"School of Informatics, University of Edinburgh, 2 Buccleuch Place, Edinburgh, EH8 9LW, UK. E-mail: sgoolnik@gmail.com",Edinburgh,United Kingdom,3
+Leonid Libkin,"Univ. of Edinburgh, Edinburgh, United Kingdom",Edinburgh,United Kingdom,4
+Leonid Libkin,"University of Edinburgh, Edinburgh, United Kingdom",Edinburgh,United Kingdom,12
+Leonid Libkin,"University of Edinburgh, Edinburgh, United Kngdm",Edinburgh,United Kingdom,2
+Leonid Libkin,University of Toronto,Toronto,Canada,10
+Leonid Libkin,University of Toronto and University of Edinburgh,Edinburgh,United Kingdom,3
+Liadan O'Callaghan,"Stanford University, Stanford, CA",Stanford,United States,4
+Linfeng Zhang,"Department of Statistics, Iowa State University, 303 Snedecor Hall, Ames, Iowa 50011-1210, USA",Ames,United States,2
+Lisa Hellerstein,"Sy Syms School of Business, Yeshiva University, 500 West 185th Street, New York, NY 10033, USA",New York,United States,4
+Liying Sui,"University of California San Diego, La Jolla, CA",San Diego,United States,3
+Liying Sui,"University of California, San Diego",San Diego,United States,4
+Lucian Popa,"IBM Almaden Research Center, San Jose, CA, USA",San Jose,United States,8
+Lucian Popa,"NetXen, Inc., Santa Clara, CA, USA",San Jose,United States,11
+Mahesh Datt Yemmanuru,"Lucent Bell Laboratories, Murray Hill, NJ",New Providence,United States,4
+Makoto Murata,"Department of Electrical Engineering, University of California Los Angeles, Los Angeles, CA",Los Angeles,United States,1
+Mangesh Gupte,"NSF Center for Autonomic Computing, Department of Electrical and Computer Engineering, Rutgers University, Piscataway, NJ, USA",Piscataway Township,United States,2
+Marcelo Arenas,University of Toronto,Toronto,Canada,13
+Marco Cadoli,"Dipartimento di Informatica, Universita di Roma La Sapienza, Rome, Italy",Rome,Italy,2
+Marco Manna,"University of Calabria, Rende (CS), Italy",Rende,Italy,3
+Marcus Fontoura,"IBM Almaden, San Jose, CA",San Jose,United States,6
+Mark J. Wheelhouse,"Imperial College, London, United Kngdm",London,United Kingdom,4
+Mark Sandler,Cornell University,Ithaca,United States,2
+Martin Farach-Colton,"NSF Center for Autonomic Computing, Department of Electrical and Computer Engineering, Rutgers University, Piscataway, NJ, USA",Piscataway Township,United States,3
+Martin Grohe,"Department of Mathematics, Statistics, and Computer Science, University of Illinois at Chicago, 851 S. Morgan St. (M/C 249), Chicago, IL",Chicago,United States,1
+Martin Grohe,"Deutsche Telekom Laboratories, Berlin, Germany",Berlin,Germany,2
+Martin Grohe,"Humboldt-Universität, Berlin, Germany",Berlin,Germany,3
+Martin J. Strauss,"University of Michigan, Ann Arbor,, MI, USA",Ann Arbor,United States,4
+Martin Strauss,"AT&T Labs--Research, Florham Park, NJ",Florham Park,United States,4
+Martin Strauss,"AT&T Labs-Research, Florham Park, NJ, USA",Florham Park,United States,2
+Martin Theobald,"Max Planck Institute for Informatics, Saarbruecken, Germany",Saarbrücken,Germany,2
+Martín Abadi,University of California at Santa Cruz,Menlo Park,United States,2
+Mathieu Verbaere,"Department of Statistics, University of Oxford, OX1 3TG, UK",Oxford,United Kingdom,4
+Matthias Niewerth,"Technical University of Dortmund, Dortmund, Germany",Dortmund,Germany,3
+Maurizio Lenzerini,Sapienza Universit224; di Roma,Rome,Italy,4
+Maurizio Lenzerini,"Univ. di Roma ""La Sapienza"", Via Salaria 113, Roma, Italy",Rome,Italy,4
+Maurizio Lenzerini,"Univ. di Roma La Sapienza, Roma, Italy",Rome,Italy,4
+Maurizio Lenzerini,"Università di Roma ""La Sapienza"", Via Salaria 113, 1-00198 Roma, Italy",Rome,Italy,4
+Maurizio Lenzerini,"Università di Roma ""La Sapienza"", Via Salaria 113, I-00198 Roma, Italy",Rome,Italy,1
+Mauro Sozio,"Max-Planck-Institut für Informatik, Saarbrücken, Germany",Saarbrücken,Germany,3
+Mayur Datar,"Stanford University, Stanford, CA",Stanford,United States,9
+Mert Saglam,"Simon Fraser University, Burnaby, BC, Canada",Burnaby,Canada,3
+Michael A. Bender,"Computer Science Department, State University of New York at Stony Brook, Stony Brook, NY",Stony Brook,United States,8
+Michael Benedikt,Bell Laboratories,Holmdel,United States,3
+Michael Benedikt,"Bell Laboratories, 263 Shuman Blvd, Naperville, IL",Naperville,United States,4
+Michael Benedikt,Bell Labs,Berkeley Heights,United States,4
+Michael Benedikt,"Lisle, Illinois",Lisle,United States,4
+Michael Benedikt,"Oxford, Oxford, United Kingdom",Oxford,United Kingdom,3
+Michael Benedikt,"University of Oxford, Oxford, United Kingdom",Oxford,United Kingdom,3
+Michael C. Martin,"Stanford University, Stanford, CA",Stanford,United States,7
+Michael Carbin,"Stanford University, Stanford, CA",Stanford,United States,7
+Michael Greenwald,"University of Pennsylvania, Philadelphia, PA",Philadelphia,United States,2
+Michael Hay,"UMass Amherst, Amherst, MA, USA",Amherst,United States,4
+Michael Hay,"University of Massachusetts Amherst, Amherst, MA, USA",Amherst,United States,5
+Michael J. Franklin,"UC Berkeley, Berkeley, CA",Berkeley,United States,3
+Michael Kifer,"Stony Brook University, Stony Brook, NY",Stony Brook,United States,3
+Michael Meier 0002,"University of Freiburg, Freiburg, Germany",Freiburg,Germany,4
+Michael Mitzenmacher,"Harvard University, Cambridge, MA, USA",Cambridge,United States,6
+Michael R. Genesereth,"Stanford University, Stanford, CA, USA",Stanford,United States,2
+Michael Schmidt,"University of Freiburg, Freiburg, Germany",Freiburg,Germany,4
+Mihalis Yannakakis,"Bell Laboratories, Lucent Technologies, Murray Hill, NJ",New Providence,United States,2
+Mikhail J. Atallah,"Purdue University, West Lafayette, IN, USA",West Lafayette,United States,2
+Mikkel Thorup,"AT&T Labs-Research, Florham Park, NJ, USA",Florham Park,United States,9
+Minos N. Garofalakis,Bell Laboratories,Holmdel,United States,4
+Minos N. Garofalakis,"Bell Laboratories, Murray Hill, NJ",Berkeley Heights,United States,2
+Minos N. Garofalakis,"Lucent Technologies, Murray Hill, NJ",New Providence,United States,2
+Mirek Riedewald,Cornell University,Ithaca,United States,4
+Mitsunori Ogihara,Univ. of Rochester,Rochester,United States,4
+Mohammad Mahdian,"CSAIL, MIT, Cambridge, MA",Cambridge,United States,5
+Mohammed Javeed Zaki,"Rensselaer Polytechnic Institute, Troy, NY",Troy,United States,3
+Monica S. Lam,"Stanford University, Stanford, CA",Stanford,United States,7
+Monika Rauch Henzinger,"Google Inc., Mountain View, CA",Mountain View,United States,1
+Moshe Y. Vardi,"Rice University, Houston, TX",Houston,United States,8
+Mukesh K. Mohania,IBM Research,New Delhi,India,5
+Mukund Sundararajan,"Department of Statistics, Stanford University, Stanford, CA, United States",Stanford,United States,2
+Nabil H. Mustafa,"Duke University, Durham, NC",Durham,United States,2
+Neoklis Polyzotis,"UC Santa Cruz, Santa Cruz, CA, USA",Santa Cruz,United States,2
+Nick G. Duffield,"AT&T Labs-Research, Florham Park, NJ, USA",Florham Park,United States,9
+Nick Koudas,"AT&T Labs-Research, Florham Park, NJ, USA",Florham Park,United States,7
+Nicola Leone,"DEIS University of Calabria, Rende (CS), Italy",Rende,Italy,3
+Nicola Leone,"Università della Calabria, Italy",Rende,Italy,3
+Nicole Schweikardt,"Deutsche Telekom Laboratories, Berlin, Germany",Berlin,Germany,2
+Nicole Schweikardt,Humboldt-University,Berlin,Germany,2
+Nicole Schweikardt,Humboldt-University Berlin,Berlin,Germany,1
+Nicole Schweikardt,"Humboldt-Universität, Berlin, Germany",Berlin,Germany,3
+Nilesh N. Dalvi,"Indian Institute of Technology, Bombay",Mumbai,India,4
+Nilesh N. Dalvi,University of Washington,Seattle,United States,4
+Nilesh N. Dalvi,"Yahoo Research, Santa Clara, CA, USA",Santa Clara,United States,3
+Nilesh N. Dalvi,"Yahoo! Research, Sunnyvale, CA, USA",Sunnyvale,United States,8
+Nina Mishra,"Stanford University, Stanford, CA",Stanford,United States,3
+Nina Mishra,University of Virginia,Charlottesville,United States,2
+Ning Wu,Tufts University,Medford,United States,4
+Nisheeth Shrivastava,"University of California at Santa Barbara, Santa Barbara, CA",Santa Barbara,United States,4
+Oege de Moor,"Department of Statistics, University of Oxford, OX1 3TG, UK",Oxford,United Kingdom,4
+Omar Benjelloun,Stanford University,Stanford,United States,3
+Oscar H. Ibarra,"University of California, Santa Barbara, CA 93106, USA. E-mail: {vigna,fredrik,balzarot,wkr}@cs.ucsb.edu",Santa Barbara,United States,3
+Pablo Barceló,University of Toronto,Toronto,Canada,4
+Panayiotis Tsaparas,"Universita di Roma, ""La Sapienza""",Rome,Italy,1
+Pankaj K. Agarwal,"Duke University, Durham, NC",Durham,United States,2
+Pankaj K. Agarwal,"Duke University, Durham, NC, USA",Durham,United States,4
+Paolo Ferragina,University of Pisa,Pisa,Italy,4
+Paolo Ferragina,"Università di Pisa, Pisa, Italy",Pisa,Italy,5
+Paraschos Koutris,"University of Washington, Seattle, WA, USA",Seattle,United States,2
+Pavel Avgustinov,"Department of Statistics, University of Oxford, OX1 3TG, UK",Oxford,United Kingdom,4
+Peter Buneman,"School of Informatics, University of Edinburgh, 2 Buccleuch Place, Edinburgh, EH8 9LW, UK. E-mail: sgoolnik@gmail.com",Edinburgh,United Kingdom,7
+Peter J. Haas,"NetXen, Inc., Santa Clara, CA, USA",San Jose,United States,3
+Peter T. Wood,"Birkbeck, U. London, London, United Kingdom",London,United Kingdom,4
+Philip A. Bernstein,Microsoft Research,Mountain View,United States,3
+Philip Bohannon,"Yahoo! Research, Sunnyvale, CA, USA",Sunnyvale,United States,8
+Philippa Gardner,"Imperial College, London, United Kngdm",London,United Kingdom,4
+Phokion G. Kolaitis,"Department of Applied Mathematics and Statistics, 1156 High Street, University of California, Santa Cruz, CA 95064, USA",Santa Cruz,United States,5
+Phokion G. Kolaitis,"IBM Almaden Research Center, San Jose, CA, USA",San Jose,United States,6
+Phokion G. Kolaitis,"NetXen, Inc., Santa Clara, CA, USA",San Jose,United States,10
+Phokion G. Kolaitis,UC Santa Cruz,Santa Cruz,United States,7
+Phokion G. Kolaitis,"UC Santa Cruz, Santa Cruz, CA, USA",Santa Cruz,United States,3
+Phokion G. Kolaitis,"UC Santa Cruz/IBM Almaden Research Center, Santa Cruz/San Jose, CA, USA",San Jose,United States,4
+Phokion G. Kolaitis,"University of California at Santa Cruz & IBM Research-Almaden, Santa Cruz, CA, USA",Santa Cruz,United States,2
+Phokion G. Kolaitis,"University of California at Santa, Cruz and IBM Research, USA",Santa Cruz,United States,3
+Phokion G. Kolaitis,"University of California, Santa Cruz, CA",Santa Cruz,United States,3
+Piero A. Bonatti,"Università di Napoli Federico II, Napoli, Italy",Naples,Italy,1
+Piotr Indyk,"MIT, Cambridge, MA, USA",Cambridge,United States,4
+Prabhakar Raghavan,"Purdue University, Sunnyvale",Sunnyvale,United States,6
+Pranjal Awasthi,IBM Research,New Delhi,India,5
+Prasan Roy,"Bell Laboratories, Murray Hill, NJ",Berkeley Heights,United States,4
+Prasenjit Mitra,"Stanford University, CA",Stanford,United States,3
+Qi Zhao,Georgia Tech,Atlanta,United States,4
+Qin Zhang,"HKUST, Hong Kong, China",Tseung Kwan O,Hong Kong,2
+Qin Zhang,"HKUST, Hong Kong, Hong Kong",Tseung Kwan O,Hong Kong,4
+Qin Zhang,"Hong Kong University of Science and Technology, Hong Kong, Hong Kong",Clear Water Bay,Hong Kong,4
+Rada Chirkova,"NC State University, Raleigh, NC, USA",Raleigh,United States,2
+Rada Chirkova,"North Carolina State University, Raleigh, NC",Raleigh,United States,2
+Rada Chirkova,"Stanford University, Stanford, CA",Stanford,United States,1
+Radu Berinde,"MIT, Cambridge, MA, USA",Cambridge,United States,4
+Rafail Ostrovsky,"UCLA, Los Angeles, CA, USA",Los Angeles,United States,3
+Raghav Kaushik,"Dept. of Computer Sciences, University of Wisconsin, Madison, WI",Madison,United States,4
+Raghav Kaushik,Microsoft Research,Mountain View,United States,3
+Raghu Ramakrishnan,University of Wisconsin-Madison,Madison,United States,3
+Raghu Ramakrishnan,"Yahoo! Research, Sunnyvale, CA, USA",Sunnyvale,United States,8
+Rahul Shah,"Louisiana State University, Baton Rouge, LA, USA",Baton Rouge,United States,5
+Rainer Gemulla,Technische Universität Dresden,Dresden,Germany,3
+Rajeev Alur,University of Pennsylvania,Philadelphia,United States,1
+Rajeev Motwani,Stanford University,Stanford,United States,2
+Rajeev Motwani,"Stanford University, Stanford, CA",Stanford,United States,9
+Rajeev Rastogi,Bell Laboratories,Holmdel,United States,4
+Rajeev Rastogi,"Bell Labs Research India, Bangalore",Bengaluru,India,5
+Rakesh Agrawal,"IBM Almaden Research Center, San Jose, CA",San Jose,United States,1
+Ramakrishnan Srikant,"NetXen, Inc., Santa Clara, CA, USA",San Jose,United States,3
+Ramanathan V. Guha,"IBM Almaden Research Center, San Jose, CA",San Jose,United States,6
+Ravi Kannan,"Yale University, New Haven, CT",New Haven,United States,4
+Ravi Kumar,"IBM Almaden Research Center, San Jose, CA",San Jose,United States,11
+Ravi Kumar,"Yahoo! Research, Sunnyvale, CA",Sunnyvale,United States,3
+Ravi Kumar,"Yahoo! Research, Sunnyvale, CA, USA",Sunnyvale,United States,14
+Rebecca N. Wright,"Department of Electrical and Computer Engineering, Stevens Institute of Technology, Castle Point on Hudson, Hoboken, NJ",Hoboken,United States,3
+Rebecca N. Wright,"Rutgers University, Piscataway, NJ, USA",Piscataway Township,United States,4
+Renée J. Miller,U. of Toronto,Toronto,Canada,4
+Reza Sadri,"Computer Science Department, University of California, Los Angeles, CA",Los Angeles,United States,4
+Riccardo Rosati,Sapienza Universit224; di Roma,Rome,Italy,4
+Riccardo Rosati,"Univ. di Roma La Sapienza, Roma, Italy",Rome,Italy,4
+Riccardo Rosati,"Università di Roma ""La Sapienza"", Roma, Italy",Rome,Italy,1
+Riccardo Rosati,"Università di Roma ""La Sapienza"", Via Salaria 113, Roma, Italy",Rome,Italy,3
+Richard Hull,"Murray Hill, New Jersey",New Providence,United States,4
+Rina Panigrahy,"Microsoft Research, Mountain View, CA, USA",Mountain View,United States,3
+Rina Panigrahy,"Micsrosoft Research, Mountain View, CA, USA",Mountain View,United States,2
+Rina Panigrahy,"Stanford University, Stanford, CA",Stanford,United States,7
+Roberto Grossi,"Università di Pisa, Pisa, Italy",Pisa,Italy,5
+Rolfe R. Schmidt,"University of Southern California, Los Angeles, California",Los Angeles,United States,2
+Ronald Fagin,"IBM Almaden Research Center, San Jose, CA",San Jose,United States,12
+Ronald Fagin,"IBM Almaden Research Center, San Jose, CA, USA",San Jose,United States,11
+Ronald Fagin,"IBM Almaden Research, Center, 650 Harry Road, San Jose, CA",San Jose,United States,3
+Ronald Fagin,"IBM Research - Almaden, San Jose, CA, USA",San Jose,United States,5
+Ronald Fagin,"IBM Research, San Jose, CA, USA",San Jose,United States,5
+Ronald Fagin,"NetXen, Inc., Santa Clara, CA, USA",San Jose,United States,15
+Rosalba Giugno,University of Catania,Catania,Italy,3
+Rossano Venturini,"ISTI-CNR, Pisa, Italy",Pisa,Italy,2
+Ryan Williams,"Carnegie Mellon University, Pittsburgh, PA",Pittsburgh,United States,2
+Ryan Williams,"NetXen, Inc., Santa Clara, CA, USA",San Jose,United States,3
+S. Muthukrishnan,"AT&T Labs--Research, Florham Park, NJ",Florham Park,United States,4
+S. Muthukrishnan,"AT&T Labs-Research, Florham Park, NJ, USA",Florham Park,United States,4
+S. Muthukrishnan,Rutgers University,Newark,United States,6
+S. Muthukrishnan,"Rutgers University, Piscataway NJ",Piscataway Township,United States,2
+S. Muthukrishnan,"Rutgers University, Piscataway, NJ, USA",Piscataway Township,United States,8
+S. Muthukrishnan,"Sy Syms School of Business, Yeshiva University, 500 West 185th Street, New York, NY 10033, USA",New York,United States,5
+S. Sudarshan,"Indian Institute of Technology, Bombay",Mumbai,India,4
+Sai Surya Kiran Evani,"Lucent Bell Laboratories, Murray Hill, NJ",New Providence,United States,4
+Sambuddha Roy,IBM Research,New Delhi,India,5
+Samir Khuller,"University of Maryland, College Park, MD",College Park,United States,10
+Sandeep Gupta,"Department of Electrical Engineering, University of California Los Angeles, Los Angeles, CA",Los Angeles,United States,3
+Sanjeev Khanna,"The Wharton School, University of Pennsylvania, Philadelphia, PA",Philadelphia,United States,2
+Sanjeev Khanna,University of Pennsylvania,Philadelphia,United States,3
+Sanjeev Khanna,"University of Pennsylvania, Philadelphia, PA",Philadelphia,United States,2
+Sanjeev Khanna,"University of Pennsylvania, Philadelphia, PA, USA",Philadelphia,United States,5
+Santosh Vempala,"Massachusetts Institute of Technology, Cambridge, MA",Cambridge,United States,4
+Sathiya Keerthi,"Yahoo! Research, Sunnyvale, CA, USA",Sunnyvale,United States,8
+Satyen Kale,Princeton University,Princeton,United States,6
+Serge Abiteboul,U. Paris Sud,Scholes,United Kingdom,3
+Sergei Vassilvitskii,"Yahoo! Research, Sunnyvale, CA, USA",Sunnyvale,United States,3
+Sergey Melnik,Microsoft Research,Mountain View,United States,3
+Sergio Flesca,"DEIS University of Calabria, Rende (CS), Italy",Rende,Italy,5
+Sergio Tessaris,"Free University of Bozen-Bolzano, Bozen",Bolzano,Italy,2
+Sheng Zhong,"SUNY Buffalo, Buffalo",Buffalo,United States,3
+Shivakumar Vaithyanathan,"IBM Research - Almaden, San Jose, CA, USA",San Jose,United States,5
+Shivakumar Vaithyanathan,"IBM Research, San Jose, CA, USA",San Jose,United States,5
+Shivnath Babu,"Stanford University, Stanford, CA",Stanford,United States,10
+Shun'ichi Amano,"University of Edinburgh, Edinburgh, United Kingdom",Edinburgh,United Kingdom,3
+Siddharth Barman,"University of Wisconsin-Madison, Madison, USA",Madison,United States,4
+Siu-Wing Cheng,"HKUST, Hong Kong, Hong Kong",Tseung Kwan O,Hong Kong,4
+Solmaz Kolahi,University of Toronto,Toronto,Canada,2
+Sourav Chatterji,"Lucent Bell Laboratories, Murray Hill, NJ",New Providence,United States,4
+Sreenivas Gollapudi,"Ebrary Inc., Palo Alto, CA",Palo Alto,United States,3
+Sreenivas Gollapudi,"Microsoft Research, Mountain View, CA, USA",Mountain View,United States,5
+Srikanta Tirthapura,"Iowa State University, Ames, IA, USA",Ames,United States,3
+Srinivas R. Kashyap,University of Maryland,College Park,United States,5
+Srinivasan Parthasarathy 0002,"IBM T.J. Watson Research Center, Hawthorne, NY, USA",Hawthorne,United States,4
+Sriram Raghavan,"IBM India Research Lab, Bangalore, India",Bengaluru,India,5
+Sriram Raghavan,"IBM Research, San Jose, CA, USA",San Jose,United States,5
+Srujana Merugu,"Yahoo! Research, Sunnyvale, CA, USA",Sunnyvale,United States,8
+Stefano Leonardi,"Universitá di Roma ""La Sapienza"", Italy",Rome,Italy,5
+Stephanie Tien Lee,"Computing Laboratory, University of Oxford, Oxford, United Kingdom",Oxford,United Kingdom,3
+Subhash Suri,"University of California at Santa Barbara, Santa Barbara, CA",Santa Barbara,United States,4
+Subhash Suri,"University of California, Santa Barbara, CA",Santa Barbara,United States,2
+Sudeepa Roy,"University of Pennsylvania, Philadelphia, PA, USA",Philadelphia,United States,5
+Sudipto Guha,UPenn,Philadelphia,United States,3
+Sudipto Guha,"University of Pennsylvania, Philadelphia, PA",Philadelphia,United States,5
+Sudipto Guha,"University of Pennsylvania, Philadelphia, PA, USA",Philadelphia,United States,2
+Sumit Ganguly,IIT Kanpur,Kanpur,India,4
+Sumit Ganguly,"IIT Kanpur, India",Kanpur,India,2
+Sumit Ganguly,"Lucent Bell Laboratories, Murray Hill, NJ",New Providence,United States,4
+Sumit K. Sanghai,"Indian Institute of Technology, Bombay",Mumbai,India,4
+Supratim Deb,"Bell Labs Research India, Bangalore",Bengaluru,India,5
+Susan B. Davidson,"University of Pennsylvania, Philadelphia, PA, USA",Philadelphia,United States,5
+Sven Hartmann,"Clausthal University of Technology, Clausthal-Zellerfeld, Germany",Clausthal-Zellerfeld,Germany,2
+Swastik Kopparty,"Department of Computer Science and Engineering, University of California at Riverside, Riverside, CA",Riverside,United States,3
+T. S. Jayram,"NetXen, Inc., Santa Clara, CA, USA",San Jose,United States,8
+Thomas Lukasiewicz,"University of Oxford, Oxford, United Kingdom",Oxford,United Kingdom,3
+Thomas Neumann,"Max-Planck-Institut für Informatik, Saarbrücken, Germany",Saarbrücken,Germany,3
+Thomas Perst,"Zentrum Mathematik, Technische Universität München, Garching bei München, Germany",Garching,Germany,4
+Thomas Schwentick,"Institut fülr Informatik, Friedrich-Schiller-Univ ersitát Jena, Ernst-Abbe-Platz 3, 07740 Jena, Germany",Jena,Germany,4
+Thomas Schwentick,"Philipps-Universität Marburg, FB Mathematik und Informatik, Marburg",35032,Germany,3
+Thomas Schwentick,"Philipps-Universität Marburg, Marburg, Germany",Marburg,Germany,1
+Thomas Schwentick,"Technical University of Dortmund, Dortmund, Germany",Dortmund,Germany,3
+Thomas Schwentick,University of Dortmund,Dortmund,Germany,5
+Thomas Schwentick,"Universität Dortmund, Germany",Dortmund,Germany,5
+Thomas Wilke,Christian-Albrechts-Universität zu Kiel,Kiel,Germany,4
+Todd J. Green,University of Pennsylvania,Philadelphia,United States,3
+Todd J. Green,"University of Pennsylvania, Philadelphia, PA, USA",Philadelphia,United States,3
+Tomás Feder,"Stanford University, Stanford, CA",Stanford,United States,7
+Toni Mancini,"Dipartimento di Informatica, Universita di Roma La Sapienza, Rome, Italy",Rome,Italy,2
+Trevor Jim,"AT&T Labs Research, 180 Park Avenue, Florham Park, NJ",Florham Park,United States,2
+Uri Zarfaty,"Imperial College, London, United Kngdm",London,United Kingdom,4
+Utkarsh Srivastava,"Department of Statistics, Stanford University, Stanford, CA, United States",Stanford,United States,3
+Utkarsh Srivastava,Stanford University,Stanford,United States,5
+V. Benjamin Livshits,"Stanford University, Stanford, CA",Stanford,United States,7
+Val Tannen,"The Wharton School, University of Pennsylvania, Philadelphia, PA",Philadelphia,United States,3
+Val Tannen,University of Pennsylvania,Philadelphia,United States,3
+Val Tannen,"University of Pennsylvania, Philadelphia, PA, USA",Philadelphia,United States,7
+Vanja Josifovski,"IBM Almaden, San Jose, CA",San Jose,United States,6
+Vassilis J. Tsotras,"Computer Science Department, University of California, Riverside, CA",Riverside,United States,5
+Vassilis J. Tsotras,"University of California, Riverside, CA",Riverside,United States,3
+Venkatesan T. Chakaravarthy,"Dept. of Computer Sciences, University of Wisconsin, Madison, WI",Madison,United States,4
+Venkatesan T. Chakaravarthy,IBM Research,New Delhi,India,5
+Venkatesan T. Chakaravarthy,University of Wisconsin-Madison,Madison,United States,3
+Vibhor Rastogi,"CSE, University of Washington, Seattle, WA, USA",Seattle,United States,3
+Vibhor Rastogi,"University of Washington, Seattle, WA, USA",Seattle,United States,9
+Victor Vianu,U.C. San Diego,San Diego,United States,13
+Victor Vianu,"UC San Diego, La Jolla, CA, USA",San Diego,United States,3
+Victor Vianu,"University of California San Diego, La Jolla, CA",San Diego,United States,3
+Victor Vianu,"University of California, San Diego",San Diego,United States,4
+Vinay K. Chaudhri,"SRI International, Menlo Park, CA",Menlo Park,United States,3
+Vinayaka Pandit,IBM Research,New Delhi,India,5
+Vladimir Braverman,"UCLA, Los Angeles, CA, USA",Los Angeles,United States,3
+Walker M. White,Cornell University,Ithaca,United States,4
+Walker M. White,University of Dallas,Irving,United States,4
+Wang Chiew Tan,"Department of Applied Mathematics and Statistics, 1156 High Street, University of California, Santa Cruz, CA 95064, USA",Santa Cruz,United States,4
+Wang Chiew Tan,"The Wharton School, University of Pennsylvania, Philadelphia, PA",Philadelphia,United States,2
+Wang Chiew Tan,UC Santa Cruz,Santa Cruz,United States,15
+Wang Chiew Tan,"UC Santa Cruz, Santa Cruz, CA, USA",Santa Cruz,United States,7
+Wang Chiew Tan,University of Pennsylvania,Philadelphia,United States,3
+Wenfei Fan,Bell Laboratories,Holmdel,United States,3
+Wenfei Fan,"Bell Labs and Temple University, 600 Mountain Avenue, Murray Hill, NJ",Berkeley Heights,United States,2
+Wenfei Fan,"School of Informatics, University of Edinburgh, 2 Buccleuch Place, Edinburgh, EH8 9LW, UK. E-mail: sgoolnik@gmail.com",Edinburgh,United Kingdom,9
+Wenfei Fan,University of Edinburgh,Edinburgh,United Kingdom,3
+Wenfei Fan,"University of Edinburgh & Harbin Institute of Technology, Edinburgh, United Kingdom",Edinburgh,United Kingdom,2
+Wenfei Fan,"University of Edinburgh, Edinburgh, United Kingdom",Edinburgh,United Kingdom,3
+Wenfei Fan,"University of Edinburgh/Bell Labs, Edinburgh, United Kingdom",Edinburgh,United Kingdom,2
+Werner Nutt,"Department of Computing and Electrical Engineering, Heriot-Watt University, Edinburgh EH14 4AS, Scotland, UK",Currie,United Kingdom,3
+William Maniatty,"University at Albany, SUNY Albany, NY",Albany,United States,3
+Wim Martens,"TU Dortmund, Dortmund, Germany",Dortmund,Germany,3
+Wim Martens,"Technical University of Dortmund, Dortmund, Germany",Dortmund,Germany,7
+Wolfgang Lehner,Technische Universität Dresden,Dresden,Germany,3
+Yannis Katsis,"University of California, San Diego",San Diego,United States,3
+Yannis Kotidis,"AT&T Labs--Research, Florham Park, NJ",Florham Park,United States,4
+Yannis Papakonstantinou,"University of California, San Diego",San Diego,United States,3
+Yaron Kanza,The Hebrew University of Jerusalem,Los Angeles,United States,2
+Yehoshua Sagiv,The Hebrew University of Jerusalem,Los Angeles,United States,4
+Yeye He,"University of Wisconsin-Madison, Madison, USA",Madison,United States,4
+Ying Xu 0002,Stanford University,Stanford,United States,2
+Yinian Qi,"Purdue University, West Lafayette, IN, USA",West Lafayette,United States,2
+Yoo Ah Kim,"University of Maryland, College Park, MD",College Park,United States,3
+Yufei Tao,"CUHK, Hong Kong, Hong Kong",Ma Liu Shui,Hong Kong,4
+Yufei Tao,"Chinese University of Hong Kong, Hong Kong, Hong Kong",Ma Liu Shui,Hong Kong,2
+Yufei Tao,"Department of Statistics, The Chinese University of Hong Kong, Hong Kong",Ma Liu Shui,Hong Kong,4
+Yung-Chun (Justin) Wan,"University of Maryland, College Park, MD",College Park,United States,3
+Yunyao Li,"IBM Research - Almaden, San Jose, CA, USA",San Jose,United States,5
+Yunyao Li,"IBM Research, San Jose, CA, USA",San Jose,United States,5
+Zhen Liu,"IBM T.J. Watson Research Center, Hawthorne, NY, USA",Hawthorne,United States,4
+Zhewei Wei,"Hong Kong University of Science and Technology, China",Clear Water Bay,Hong Kong,2
+Zhewei Wei,"Hong Kong University of Science and Technology, Hong Kong, Hong Kong",Clear Water Bay,Hong Kong,4
+Zhiqiang Yang,"Department of Electrical and Computer Engineering, Stevens Institute of Technology, Castle Point on Hudson, Hoboken, NJ",Hoboken,United States,3
+Ziv Bar-Yossef,"IBM Almaden, San Jose, CA",San Jose,United States,3
+Zoltán Miklós,University of Oxford,Oxford,United Kingdom,3
+Zoë Abrams,Stanford U.,Palo Alto,United States,4

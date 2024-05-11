@@ -45,3 +45,30 @@ or dc.name = 'Italy' or dc.name = 'United Kingdom') group by dc.name;
 
 -- Generate CSV file from PodsCount table
 \COPY sigmodCount TO './sigmodCount.csv' WITH (FORMAT CSV, HEADER);
+
+-- Create the universal table for SIGMOD table
+create table sigmodUniversalTable(author text, affiliation text, city text, country text, count integer);
+insert into sigmodUniversalTable(author, affiliation, city, country,  count)
+select dta.name as author, da.name as affiliation, da.city as city, dc.name as country, count(*)
+from sigmod0111 sm, data_pub dp, data_pub_author dpa, data_author_affiliation daa, 
+data_affiliation da, data_country dc, data_author dta
+where da.country_id = dc.id and daa.affiliation = da.id and dpa.authoraffiliation_id = daa.id 
+and daa.author_id = dta.id and sm.pubkey = dp.dblp_key and dp.id = dpa.publication_id and 
+(dc.name = 'United States' or dc.name = 'Canada' or dc.name = 'Hong Kong' or dc.name = 'Germany' or 
+dc.name = 'India' or dc.name = 'Italy' or dc.name = 'United Kingdom') 
+group by dta.name, da.name, da.city, dc.name;
+
+-- Create the universal table for PODS table
+create table podsUniversalTable(author text, affiliation text, city text, country text, count integer);
+insert into podsUniversalTable(author, affiliation, city, country, count)
+select dta.name as author, da.name as affiliation, da.city as city, dc.name as country, count(*)
+from pods111 sm, data_pub dp, data_pub_author dpa, data_author_affiliation daa, 
+data_affiliation da, data_country dc, data_author dta
+where da.country_id = dc.id and daa.affiliation = da.id and dpa.authoraffiliation_id = daa.id 
+and daa.author_id = dta.id and sm.pubkey = dp.dblp_key and dp.id = dpa.publication_id and 
+(dc.name = 'United States' or dc.name = 'Canada' or dc.name = 'Hong Kong' or dc.name = 'Germany' or 
+dc.name = 'India' or dc.name = 'Italy' or dc.name = 'United Kingdom') 
+group by dta.name, da.name, da.city, dc.name;
+
+\COPY podsUniversalTable TO './podsUniversalTable.csv' WITH (FORMAT CSV, HEADER);
+\COPY sigmodUniversalTable TO './sigmodUniversalTable.csv' WITH (FORMAT CSV, HEADER);
