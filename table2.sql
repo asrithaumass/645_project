@@ -5,39 +5,45 @@ FROM universalTable WHERE country = 'United Kingdom'
 GROUP BY conference;
 
 -- Step 2: Create data cubes and store aggregate values
-CREATE TABLE ukaggregateCube AS
-SELECT author, affiliation, city, conference, COUNT(*) AS cubeCount
-FROM universalTable WHERE country = 'United Kingdom'
+CREATE TABLE PodsAggregateCube AS
+SELECT COALESCE(author, 'unknown') AS author, 
+COALESCE(affiliation, 'unknown') AS affiliation, 
+COALESCE(city, 'unknown') AS city, 
+COALESCE(conference, 'unknown') AS conference, COUNT(*) AS PodsCount
+FROM universalTable WHERE conference = 'PODS' and country = 'United Kingdom'
+GROUP BY CUBE(conference, author, affiliation, city);
+
+CREATE TABLE sigmodAggregateCube AS
+SELECT COALESCE(author, 'unknown') AS author, 
+COALESCE(affiliation, 'unknown') AS affiliation, 
+COALESCE(city, 'unknown') AS city, 
+COALESCE(conference, 'unknown') AS conference,
+COUNT(*) AS sigmodCount
+FROM universalTable WHERE conference = 'SIGMOD' and country = 'United Kingdom'
 GROUP BY CUBE(conference, author, affiliation, city);
 
 -- Step 3: Perform full outer join
--- Only have 1 query, no need for an outer join
+drop table if exists fullouterjoin;
+create table fullouterjoin AS
+SELECT DISTINCT s.author, s.affiliation, s.city,  PodsCount, sigmodCount
+FROM sigmodAggregateCube s
+FULL OUTER JOIN PodsAggregateCube p ON s.author = p.author and  s.affiliation = p.affiliation 
+AND s.city = p.city;
 
 -- Step 4: Add column for interv and compute its values
-ALTER TABLE ukaggregateCube
-ADD COLUMN dir text;
+drop table if exists fullouterjoinNozero;
+create table fullouterjoinNozero AS SELECT * FROM fullouterjoin
+WHERE sigmodCount != (select count from UKaggregateTable where conference = 'SIGMOD');
 
-UPDATE ukaggregateCube
-SET dir = CASE
-WHEN conference='PODS' THEN 'low' 
-WHEN conference = 'SIGMOD' THEN 'high'
-END;
+ALTER TABLE fullouterjoinNozero
+add COLUMN interv real;
 
-ALTER TABLE ukaggregateCube
-ADD COLUMN interv text;
-
-UPDATE fullouterjoin
-SET interv = CASE
-WHEN dir = 'low' THEN ((select count from UKaggregateTable where conference = 'PODS') - cubeCount)
-WHEN dir = 'high' THEN (cubeCount - (select count from UKaggregateTable where conference = 'SIGMOD'))
-END;
+UPDATE fullouterjoinNozero
+SET interv = ((CAST((SELECT COUNT FROM UKaggregateTable WHERE conference = 'PODS') AS DECIMAL) - podsCount) / CAST((SELECT COUNT FROM UKaggregateTable WHERE conference = 'SIGMOD') - sigmodCount AS DECIMAL));
 
 -- Step 5: Add column for µaggr and compute its values
-ALTER TABLE fullouterjoin
+ALTER TABLE fullouterjoinNozero
 ADD COLUMN aggr INT;
 
-UPDATE fullouterjoin
-SET aggr = CASE
-WHEN dir = 'high' THEN cubeCount
-WHEN dir = 'low' THEN -cubeCount
-END;
+UPDATE fullouterjoinNozero
+SET aggr = -(podscount/sigmodCount);
