@@ -43,7 +43,10 @@ SET interv = ((CAST((SELECT COUNT FROM UKaggregateTable WHERE conference = 'PODS
 
 -- Step 5: Add column for µaggr and compute its values
 ALTER TABLE fullouterjoinNozero
-ADD COLUMN aggr INT;
+ADD COLUMN aggr DECIMAL;
 
 UPDATE fullouterjoinNozero
-SET aggr = -(podscount/sigmodCount);
+SET aggr = - (CAST(podscount AS DECIMAL) / sigmodCount);
+
+\COPY (select * from fullouterjoinnozero WHERE interv is not null order by interv DESC limit 10) TO 'fig2Interv.csv' WITH (FORMAT CSV, HEADER);
+\COPY (select * from fullouterjoinnozero WHERE aggr is not null order by aggr DESC limit 10) TO 'fig2Aggr.csv' WITH (FORMAT CSV, HEADER);
