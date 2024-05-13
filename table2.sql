@@ -1,10 +1,12 @@
 -- Step 1: Calculate aggregate values
+DROP TABLE IF EXISTS UKaggregateTable;
 CREATE TABLE UKaggregateTable AS
 SELECT conference, COUNT(*) AS count
 FROM universalTable WHERE country = 'United Kingdom'
 GROUP BY conference;
 
 -- Step 2: Create data cubes and store aggregate values
+DROP TABLE IF EXISTS PodsAggregateCube;
 CREATE TABLE PodsAggregateCube AS
 SELECT COALESCE(author, 'unknown') AS author, 
 COALESCE(affiliation, 'unknown') AS affiliation, 
@@ -13,6 +15,7 @@ COALESCE(conference, 'unknown') AS conference, COUNT(*) AS PodsCount
 FROM universalTable WHERE conference = 'PODS' and country = 'United Kingdom'
 GROUP BY CUBE(conference, author, affiliation, city);
 
+DROP TABLE IF EXISTS sigmodAggregateCube;
 CREATE TABLE sigmodAggregateCube AS
 SELECT COALESCE(author, 'unknown') AS author, 
 COALESCE(affiliation, 'unknown') AS affiliation, 
@@ -35,6 +38,7 @@ drop table if exists fullouterjoinNozero;
 create table fullouterjoinNozero AS SELECT * FROM fullouterjoin
 WHERE sigmodCount != (select count from UKaggregateTable where conference = 'SIGMOD');
 
+-- dir is low
 ALTER TABLE fullouterjoinNozero
 add COLUMN interv real;
 
@@ -48,5 +52,6 @@ ADD COLUMN aggr DECIMAL;
 UPDATE fullouterjoinNozero
 SET aggr = - (CAST(podscount AS DECIMAL) / sigmodCount);
 
+-- Convert to CSV
 \COPY (select * from fullouterjoinnozero WHERE interv is not null order by interv DESC limit 10) TO 'fig2Interv.csv' WITH (FORMAT CSV, HEADER);
 \COPY (select * from fullouterjoinnozero WHERE aggr is not null order by aggr DESC limit 10) TO 'fig2Aggr.csv' WITH (FORMAT CSV, HEADER);

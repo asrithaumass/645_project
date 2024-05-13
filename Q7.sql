@@ -1,12 +1,3 @@
-DROP TABLE IF EXISTS sigmodcom;
-DROP TABLE IF EXISTS sigmodedu;
-
-CREATE TABLE sigmodcom(id int,name varchar(255),homepage varchar(255),pubid int,pubkey,booktitle varchar(255),editor varchar(255),year int,title varchar(255))
-INSERT INTO sigmodcom(id,name,homepage,pubid,pubkey,booktitle,editor,year,title) 
-SELECT *
-FROM 
-
-
 -- Drop the existing table if it exists and create a new table
 DROP TABLE IF EXISTS newjoin;
 CREATE TABLE newjoin(count int, year int, page varchar(255));
@@ -131,9 +122,9 @@ SELECT DISTINCT
     COALESCE(count1, 0) AS count1, COALESCE(count2, 0) AS count2, COALESCE(count3, 0) AS count3, COALESCE(count4, 0) AS count4,
    COALESCE(Cube1.booktitle, Cube2.booktitle, Cube3.booktitle, Cube4.booktitle) AS booktitle
 FROM Cube1
-FULL OUTER JOIN Cube2 ON Cube1.name = Cube2.name AND Cube1.homepage = Cube2.homepage AND Cube1.booktitle = Cube2.booktitle 
-FULL OUTER JOIN Cube3 ON Cube1.name = Cube3.name AND Cube1.homepage = Cube3.homepage AND Cube1.booktitle = Cube3.booktitle 
-FULL OUTER JOIN Cube4 ON Cube1.name = Cube4.name AND Cube1.homepage = Cube4.homepage AND Cube1.booktitle = Cube4.booktitle;
+FULL OUTER JOIN Cube2 ON Cube1.name = Cube2.name AND Cube1.homepage = Cube2.homepage 
+FULL OUTER JOIN Cube3 ON Cube1.name = Cube3.name AND Cube1.homepage = Cube3.homepage
+FULL OUTER JOIN Cube4 ON Cube1.name = Cube4.name AND Cube1.homepage = Cube4.homepage;
 
 SELECT * FROM fullouterjoin2 where count3 = 6 AND count2=0 order by count2 LIMIT 10;
 
@@ -142,29 +133,27 @@ create table fullouterjoinNozero AS SELECT * FROM fullouterjoin2
 WHERE count2 != (select count from newjoin where page LIKE '%u2') AND count3 != (select count from newjoin where page LIKE '%u3');
 
 -- SELECT * FROM fullouterjoinNozero LIMIT 20;
-
 ALTER TABLE fullouterjoinNozero
 add COLUMN interv real;
 
 UPDATE fullouterjoinNozero
-SET interv = (((CAST((select count from newjoin where page LIKE '%u1') AS DECIMAL) - count1)*(CAST((select count from newjoin where page LIKE '%u4') AS DECIMAL) - count4)) / ((CAST((select count from newjoin where page LIKE '%u2') AS DECIMAL) - count2)*(CAST((select count from newjoin where page LIKE '%u3') AS DECIMAL) - count3)));
+SET interv =-(((CAST((select count from newjoin where page LIKE '%u1') AS DECIMAL) - count1)*(CAST((select count from newjoin where page LIKE '%u4') AS DECIMAL) - count4)) / ((CAST((select count from newjoin where page LIKE '%u2') AS DECIMAL) - count2)*(CAST((select count from newjoin where page LIKE '%u3') AS DECIMAL) - count3)));
 
 ALTER TABLE fullouterjoinNozero
 ADD COLUMN aggr INT;
 
 UPDATE fullouterjoinNozero
-SET aggr = -(
+SET aggr = (
     CAST(
-        COALESCE(count1, 0) * COALESCE(count4, 0) / NULLIF(COALESCE(count2, 0), 0) * NULLIF(COALESCE(count3, 0), 0)
+        (count1 * count4) / (NULLIF(count2 * count3, 0))
     AS DECIMAL)
 );
 
 
 -- Select the first 10 records from fullouterjoin2 to verify
+SELECT * FROM fullouterjoinNozero  WHERE interv is not null order by interv LIMIT 10;
+SELECT * FROM fullouterjoinNozero  WHERE interv is not null order by aggr LIMIT 10;
 
-SELECT * FROM fullouterjoinNozero order by interv DESC LIMIT 10;
-SELECT * FROM fullouterjoinNozero order by aggr LIMIT 10;
 
-
-\COPY (SELECT * FROM fullouterjoinNozero order by interv DESC LIMIT 10) TO 'fig1Interv.csv' WITH (FORMAT CSV, HEADER);
-\COPY (SELECT * FROM fullouterjoinNozero order by aggr LIMIT 10) TO 'fig1Aggr.csv' WITH (FORMAT CSV, HEADER);
+\COPY (SELECT * FROM fullouterjoinNozero  WHERE interv is not null order by interv DESC LIMIT 10) TO 'fig1Interv.csv' WITH (FORMAT CSV, HEADER);
+\COPY (SELECT * FROM fullouterjoinNozero  WHERE interv is not null  order by aggr LIMIT 10) TO 'fig1Aggr.csv' WITH (FORMAT CSV, HEADER);
