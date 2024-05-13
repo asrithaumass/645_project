@@ -156,4 +156,4 @@ SELECT * FROM fullouterjoinNozero  WHERE interv is not null order by aggr LIMIT 
 
 
 \COPY (SELECT * FROM fullouterjoinNozero  WHERE interv is not null order by interv DESC LIMIT 10) TO 'fig1Interv.csv' WITH (FORMAT CSV, HEADER);
-\COPY (SELECT * FROM fullouterjoinNozero  WHERE interv is not null  order by aggr DESC LIMIT 10) TO 'fig1Aggr.csv' WITH (FORMAT CSV, HEADER);
+\COPY (SELECT * FROM fullouterjoinNozero  WHERE aggr is not null  order by aggr DESC LIMIT 10) TO 'fig1Aggr.csv' WITH (FORMAT CSV, HEADER);
