@@ -1,11 +1,11 @@
 name,homepage,count1,count2,count3,count4,booktitle,interv,aggr
-Chee Yong Chan,http://www.comp.nus.edu.sg/~chancy/,2,3,2,3,SIGMOD Conference,1.1225959,-4
-Unknown Name,http://www.comp.nus.edu.sg/~chancy/,2,5,2,5,Unknown Booktitle,1.1122302,-4
-Unknown Name,http://www.comp.nus.edu.sg/~chancy/,2,5,2,5,SIGMOD Conference,1.1122302,-4
-Chee Yong Chan,Unknown Homepage,2,3,2,3,SIGMOD Conference,1.1225959,-4
-Chee Yong Chan,Unknown Homepage,2,3,2,3,Unknown Booktitle,1.1225959,-4
-Chee Yong Chan,http://www.comp.nus.edu.sg/~chancy/,2,3,2,3,Unknown Booktitle,1.1225959,-4
-Man Lung Yiu,https://www4.comp.polyu.edu.hk/~csmlyiu/,1,1,1,1,SIGMOD Conference,1.1233397,-1
-Man Lung Yiu,Unknown Homepage,1,1,1,1,SIGMOD Conference,1.1233397,-1
-Man Lung Yiu,Unknown Homepage,1,1,1,1,Unknown Booktitle,1.1233397,-1
-Man Lung Yiu,https://www4.comp.polyu.edu.hk/~csmlyiu/,1,1,1,1,Unknown Booktitle,1.1233397,-1
+Steven Minton,Unknown Homepage,0,0,1,0,Unknown Booktitle,-1.1858116,
+Il-Yeol Song,Unknown Homepage,1,1,0,0,Unknown Booktitle,-1.1694934,
+Eli Cortez,https://twitter.com/elicortez,0,2,0,0,SIGMOD Conference,-1.1761589,
+Russell Sears,https://www.linkedin.com/in/russell-sears-06266791,0,2,0,0,SIGMOD Conference,-1.1761589,
+Neil Conway,https://twitter.com/neil_conway,0,1,0,0,Unknown Booktitle,-1.1735682,
+Unknown Name,http://www.ics.uci.edu/~onose/,0,0,1,0,SIGMOD Conference,-1.1858116,
+Unknown Name,https://scholar.google.com/citations?user=FCDDJioAAAAJ,1,0,0,0,Unknown Booktitle,-1.166923,
+Eamonn J. Keogh,Unknown Homepage,1,0,0,0,SIGMOD Conference,-1.166923,
+Unknown Name,https://scholar.google.com/citations?user=mGPuiasAAAAJ,2,3,0,0,Unknown Booktitle,-1.1705753,
+Unknown Name,http://www.eecs.berkeley.edu/~dtliu/,0,0,1,0,Unknown Booktitle,-1.1858116,
