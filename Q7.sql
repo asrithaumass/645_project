@@ -1,12 +1,3 @@
-DROP TABLE IF EXISTS sigmodcom;
-DROP TABLE IF EXISTS sigmodedu;
-
-CREATE TABLE sigmodcom(id int,name varchar(255),homepage varchar(255),pubid int,pubkey,booktitle varchar(255),editor varchar(255),year int,title varchar(255))
-INSERT INTO sigmodcom(id,name,homepage,pubid,pubkey,booktitle,editor,year,title) 
-SELECT *
-FROM 
-
-
 -- Drop the existing table if it exists and create a new table
 DROP TABLE IF EXISTS newjoin;
 CREATE TABLE newjoin(count int, year int, page varchar(255));
